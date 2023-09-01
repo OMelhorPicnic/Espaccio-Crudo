@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;600;800&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Roboto:wght@300;400;500;600&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Roboto:wght@300;400;500;600&display=swap'); */ 
 
 *{
     margin: 0;
@@ -38,10 +38,11 @@ body{
     font-weight: 800;
     color: #6C3D1F;
 }
+/*
 #title h1 span:last-child{
     font-family: 'Indie Flower', cursive;
 }
-
+*/
 #img-cel{
     margin: 10px;
     width: 300px;
@@ -221,9 +222,11 @@ footer{
     .colored{
         font-weight: 600;
     }
+    /*
     #title h1 span:last-child{
         font-family: 'Indie Flower', cursive;
     }
+    */
       
     #img-cel{   
         margin: 30px 0px 10px 0px;
